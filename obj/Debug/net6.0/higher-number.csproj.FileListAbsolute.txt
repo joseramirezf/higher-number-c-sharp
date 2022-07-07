@@ -1,0 +1,15 @@
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/12 - higher-number/higher-number/bin/Debug/net6.0/higher-number
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/12 - higher-number/higher-number/bin/Debug/net6.0/higher-number.deps.json
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/12 - higher-number/higher-number/bin/Debug/net6.0/higher-number.runtimeconfig.json
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/12 - higher-number/higher-number/bin/Debug/net6.0/higher-number.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/12 - higher-number/higher-number/bin/Debug/net6.0/higher-number.pdb
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/12 - higher-number/higher-number/obj/Debug/net6.0/higher-number.csproj.AssemblyReference.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/12 - higher-number/higher-number/obj/Debug/net6.0/higher-number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/12 - higher-number/higher-number/obj/Debug/net6.0/higher-number.AssemblyInfoInputs.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/12 - higher-number/higher-number/obj/Debug/net6.0/higher-number.AssemblyInfo.cs
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/12 - higher-number/higher-number/obj/Debug/net6.0/higher-number.csproj.CoreCompileInputs.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/12 - higher-number/higher-number/obj/Debug/net6.0/higher-number.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/12 - higher-number/higher-number/obj/Debug/net6.0/refint/higher-number.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/12 - higher-number/higher-number/obj/Debug/net6.0/higher-number.pdb
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/12 - higher-number/higher-number/obj/Debug/net6.0/higher-number.genruntimeconfig.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/12 - higher-number/higher-number/obj/Debug/net6.0/ref/higher-number.dll
